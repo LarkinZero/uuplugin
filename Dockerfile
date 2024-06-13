@@ -1,4 +1,4 @@
-FROM openwrtorg/rootfs:x86-64-19.07.6
+FROM openwrt/rootfs:x86-64-19.07.10
 
 LABEL maintainer="DianQK <dianqk@icloud.com>"
 
